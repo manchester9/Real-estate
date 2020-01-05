@@ -1,4 +1,4 @@
-<p align="center"><img width=40% src="images/computer-vision.jpg"></p>
+<p align="center"><img width=50% src="images/reinforcement-learning.png"></p>
 
 <p align="center" style="color:DodgerBlue; font-family:cambria; font-variant: normal; font-size:20pt; font-weight:bold; font-weight: 900">REINFORCEMENT LEARNING
 </p>
