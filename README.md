@@ -12,7 +12,7 @@ This repo contains books, courses, websites, courses, and nanodegrees that have 
 
 ### **Books**
 1. [Reinforcement Learning: An Introduction](https://www.amazon.com/Reinforcement-Learning-Introduction-Adaptive-Computation/dp/0262039249/ref=sr_1_2?dchild=1&keywords=reinforcement+learning&qid=1590717988&sr=8-2)
-2. [TBD]()
+2. [Deep Reinforcement Learning Hands On](https://www.amazon.com/Deep-Reinforcement-Learning-Hands-Q-networks-ebook/dp/B076H9VQH6/ref=sr_1_6?dchild=1&keywords=reinforcement+learning&qid=1590744665&sr=8-6)
 
 ### **Courses**
 1. [TBD]()
