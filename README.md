@@ -11,7 +11,7 @@ This repo contains books, courses, websites, courses, and nanodegrees that have 
 # **Table Of Contents**
 
 ### **Books**
-1. [TBD]()
+1. [Reinforcement Learning: An Introduction](https://www.amazon.com/Reinforcement-Learning-Introduction-Adaptive-Computation/dp/0262039249/ref=sr_1_2?dchild=1&keywords=reinforcement+learning&qid=1590717988&sr=8-2)
 2. [TBD]()
 
 ### **Courses**
