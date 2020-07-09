@@ -20,3 +20,6 @@ This repo contains books, courses, websites, courses, and nanodegrees that have 
 
 ### **Nanodegrees**
 1. [Deep Reinforcement Learning - Nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893)
+
+### **Websites**
+1. https://www.geeksforgeeks.org/what-is-reinforcement-learning/
